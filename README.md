@@ -14,3 +14,13 @@ The eggs the female bird brought
 
 Female bird
 ![FemaleBird](https://github.com/jheinath/BirdImagesUpload/blob/master/Images/FemaleBird.png?raw=true)
+
+UPDATE:
+
+Stopped this project because I found a cool solution to capture the birds: https://www.yawcam.com/
+With yawcam I could easily create a live stream and capture a photo of the live stream every 10th second.
+Combined with Ngrok I was able to access the live stream from anywhere :)
+
+Meanwhile 2 of the eggs hatched and both of them stayed one month in with their parents and then flew away in the open world.
+
+Currently I am editing a timelapse of all the images taken by yawcam and will upload the result on YouTube.
